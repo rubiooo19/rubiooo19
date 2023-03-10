@@ -1,5 +1,5 @@
-### Hi there 👋
-![logo](https://github.com/rubiooo19/rubiooo19/blob/main/assets/descarga.jpg)
+### HUOOOLA 👋
+![logo](https://github.com/rubiooo19/rubiooo19/blob/main/assets/images.jpg)
 <!--
 **rubiooo19/rubiooo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
